@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\PRN212-SE1848\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C596BE6E-3D0B-4510-8631-AC7BD7E4EDA7}|OOP1\\OOP1.csproj|d:\\prn212\\prn212-se1848\\oop1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C596BE6E-3D0B-4510-8631-AC7BD7E4EDA7}|OOP1\\OOP1.csproj|solutionrelative:oop1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C596BE6E-3D0B-4510-8631-AC7BD7E4EDA7}|OOP1\\OOP1.csproj|d:\\prn212\\prn212-se1848\\oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C596BE6E-3D0B-4510-8631-AC7BD7E4EDA7}|OOP1\\OOP1.csproj|solutionrelative:oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C596BE6E-3D0B-4510-8631-AC7BD7E4EDA7}|OOP1\\OOP1.csproj|d:\\prn212\\prn212-se1848\\oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C596BE6E-3D0B-4510-8631-AC7BD7E4EDA7}|OOP1\\OOP1.csproj|solutionrelative:oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C596BE6E-3D0B-4510-8631-AC7BD7E4EDA7}|OOP1\\OOP1.csproj|d:\\prn212\\prn212-se1848\\oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C596BE6E-3D0B-4510-8631-AC7BD7E4EDA7}|OOP1\\OOP1.csproj|solutionrelative:oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C697BB21-AC8E-4435-AC6B-B8D71CB728FD}|NestedLoop_Sort\\NestedLoop_Sort.csproj|d:\\prn212\\prn212-se1848\\nestedloop_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C697BB21-AC8E-4435-AC6B-B8D71CB728FD}|NestedLoop_Sort\\NestedLoop_Sort.csproj|solutionrelative:nestedloop_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00CD379-CA2D-432D-9872-4D2823E04EE1}|TuplesSample\\TuplesSample.csproj|d:\\prn212\\prn212-se1848\\tuplessample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00CD379-CA2D-432D-9872-4D2823E04EE1}|TuplesSample\\TuplesSample.csproj|solutionrelative:tuplessample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE378B75-9246-48DA-BE92-1A0E4E62B0CA}|QuadraticEquation\\QuadraticEquation.csproj|d:\\prn212\\prn212-se1848\\quadraticequation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE378B75-9246-48DA-BE92-1A0E4E62B0CA}|QuadraticEquation\\QuadraticEquation.csproj|solutionrelative:quadraticequation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72017D65-86F3-444C-9350-1F20BFA7C852}|FisrtDegree\\FisrtDegree.csproj|d:\\prn212\\prn212-se1848\\fisrtdegree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72017D65-86F3-444C-9350-1F20BFA7C852}|FisrtDegree\\FisrtDegree.csproj|solutionrelative:fisrtdegree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2403F77D-E9D8-4ACE-A8C0-494B286FDE35}|RefAndOutSample\\RefAndOutSample.csproj|d:\\prn212\\prn212-se1848\\refandoutsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2403F77D-E9D8-4ACE-A8C0-494B286FDE35}|RefAndOutSample\\RefAndOutSample.csproj|solutionrelative:refandoutsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39518F42-79B1-4F5A-BFC9-9CD07FE3F685}|TryParseSample\\TryParseSample.csproj|d:\\prn212\\prn212-se1848\\tryparsesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39518F42-79B1-4F5A-BFC9-9CD07FE3F685}|TryParseSample\\TryParseSample.csproj|solutionrelative:tryparsesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C826D9-2731-40AD-9787-099D4E04198A}|ParamsSample\\ParamsSample.csproj|d:\\prn212\\prn212-se1848\\paramssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C826D9-2731-40AD-9787-099D4E04198A}|ParamsSample\\ParamsSample.csproj|solutionrelative:paramssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FC5C25-943D-4A08-9031-04103F240BCB}|StringInteraction\\StringInteraction.csproj|d:\\prn212\\prn212-se1848\\stringinteraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FC5C25-943D-4A08-9031-04103F240BCB}|StringInteraction\\StringInteraction.csproj|solutionrelative:stringinteraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAD3BBC-9659-4DA3-B022-5575B4163451}|SimpleMath\\SimpleMath.csproj|d:\\prn212\\prn212-se1848\\simplemath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAD3BBC-9659-4DA3-B022-5575B4163451}|SimpleMath\\SimpleMath.csproj|solutionrelative:simplemath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Customer.cs",
+              "RelativeDocumentMoniker": "OOP1\\Customer.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Customer.cs*",
+              "RelativeToolTip": "OOP1\\Customer.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:29:16.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP1\\Employee.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Employee.cs",
+              "RelativeToolTip": "OOP1\\Employee.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA/wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:51:55.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Category.cs",
+              "RelativeDocumentMoniker": "OOP1\\Category.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Category.cs",
+              "RelativeToolTip": "OOP1\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:34:47.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP1\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Program.cs*",
+              "RelativeToolTip": "OOP1\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:33:42.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\NestedLoop_Sort\\Program.cs",
+              "RelativeDocumentMoniker": "NestedLoop_Sort\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\NestedLoop_Sort\\Program.cs",
+              "RelativeToolTip": "NestedLoop_Sort\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:15:44.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\TuplesSample\\Program.cs",
+              "RelativeDocumentMoniker": "TuplesSample\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\TuplesSample\\Program.cs",
+              "RelativeToolTip": "TuplesSample\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:51:03.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ParamsSample\\Program.cs",
+              "RelativeDocumentMoniker": "ParamsSample\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ParamsSample\\Program.cs",
+              "RelativeToolTip": "ParamsSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:43:07.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\TryParseSample\\Program.cs",
+              "RelativeDocumentMoniker": "TryParseSample\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\TryParseSample\\Program.cs",
+              "RelativeToolTip": "TryParseSample\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:31:12.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\RefAndOutSample\\Program.cs",
+              "RelativeDocumentMoniker": "RefAndOutSample\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\RefAndOutSample\\Program.cs",
+              "RelativeToolTip": "RefAndOutSample\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:17:15.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\SimpleMath\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleMath\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\SimpleMath\\Program.cs",
+              "RelativeToolTip": "SimpleMath\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:50:43.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\StringInteraction\\Program.cs",
+              "RelativeDocumentMoniker": "StringInteraction\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\StringInteraction\\Program.cs",
+              "RelativeToolTip": "StringInteraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:43:10.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\QuadraticEquation\\Program.cs",
+              "RelativeDocumentMoniker": "QuadraticEquation\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\QuadraticEquation\\Program.cs",
+              "RelativeToolTip": "QuadraticEquation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:30:14.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\FisrtDegree\\Program.cs",
+              "RelativeDocumentMoniker": "FisrtDegree\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\FisrtDegree\\Program.cs",
+              "RelativeToolTip": "FisrtDegree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:13:02.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
