@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RadioButton Control/1.0.0": {
+        "runtime": {
+          "RadioButton Control.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RadioButton Control/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

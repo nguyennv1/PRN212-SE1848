@@ -1,0 +1,653 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\vieworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\vieworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\vieworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\vieworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\managecustomerswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\managecustomerswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\nguyenvannguyenwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\nguyenvannguyenwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\dataaccesslayer\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\businessobjects\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|solutionrelative:businessobjects\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\nguyenvannguyenwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E5ABDB-3BD0-41D7-87C9-6AD630105F00}|NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj|solutionrelative:nguyenvannguyenwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\businessobjects\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|solutionrelative:businessobjects\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|solutionrelative:services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\dataaccesslayer\\datacontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datacontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\businessobjects\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|solutionrelative:businessobjects\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\businessobjects\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|solutionrelative:businessobjects\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377299FA-A788-46FE-90D1-3291F199450A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9985AA2-B026-4D55-A044-D93F114ADAD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E24B3F2-6B36-407F-86D2-0F8A1B78337E}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|d:\\prn212\\nguyenvannguyen_se1848_a01.sln\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D07FB-2E23-43E7-BE39-E2A81CD1FF99}|BusinessObjects\\BusinessObject.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\CustomerWindow.xaml",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\CustomerWindow.xaml",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T08:52:16.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\LoginWindow.xaml",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T07:03:12.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\MainWindow.xaml",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T15:24:07.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\ProductWindow.xaml",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\ProductWindow.xaml",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T17:30:44.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VieworderWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\VieworderWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\VieworderWindow.xaml",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\VieworderWindow.xaml",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\VieworderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T09:46:19.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VieworderWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\VieworderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\VieworderWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\VieworderWindow.xaml.cs",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\VieworderWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:56:37.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\ProductWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\ProductWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:32:01.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA3wCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:24:06.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:03:28.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\EmployeeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EmployeeDAO.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\EmployeeDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\EmployeeDAO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:19:49.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageCustomersWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\ManageCustomersWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\ManageCustomersWindow.xaml",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\ManageCustomersWindow.xaml",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\ManageCustomersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T09:31:17.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NguyenVanNguyenWPF.csproj",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\NguyenVanNguyenWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T15:24:10.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:17:04.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Customers.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customers.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Customers.cs",
+              "RelativeToolTip": "BusinessObjects\\Customers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:20:33.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:28:12.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:28:24.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:23:16.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:27:48.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:02:08.374Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:18:56.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:41:06.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:19:37.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenVanNguyenWPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\NguyenVanNguyenWPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "NguyenVanNguyenWPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA5wCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:53:00.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Session.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Session.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Session.cs",
+              "RelativeToolTip": "BusinessObjects\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:59:08.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomerService.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:27:27.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T15:17:22.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:14:27.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:13:16.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T15:16:44.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T15:16:20.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DataContextSingleton.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\DataContextSingleton.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataContextSingleton.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\DataContextSingleton.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataContextSingleton.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:25:56.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:38:46.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Categories.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Categories.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Categories.cs",
+              "RelativeToolTip": "BusinessObjects\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:16:02.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Employees.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Employees.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Employees.cs",
+              "RelativeToolTip": "BusinessObjects\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:15:06.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:35:13.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:46:41.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:12:21.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:55:44.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwBkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:56:06.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\PRN212\\NguyenVanNguyen_SE1848_A01.sln\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:17:48.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

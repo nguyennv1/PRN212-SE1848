@@ -1,0 +1,21 @@
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\bin\Debug\net9.0-windows\CheckBox Sự Kiện.exe
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\bin\Debug\net9.0-windows\CheckBox Sự Kiện.deps.json
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\bin\Debug\net9.0-windows\CheckBox Sự Kiện.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\bin\Debug\net9.0-windows\CheckBox Sự Kiện.dll
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\bin\Debug\net9.0-windows\CheckBox Sự Kiện.pdb
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\App.g.cs
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện_MarkupCompile.cache
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện_MarkupCompile.lref
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\MainWindow.baml
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện.g.resources
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện.sourcelink.json
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện.dll
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\refint\CheckBox Sự Kiện.dll
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện.pdb
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\CheckBox Sự Kiện.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\CheckBox Sự Kiện\obj\Debug\net9.0-windows\ref\CheckBox Sự Kiện.dll
